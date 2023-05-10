@@ -1,5 +1,5 @@
 # Thanks for Visiting Us 🚀
-## We are live @ [Visit Us](https://amazing-torrone-a3dfb7.netlify.app/)
+## We are live @ [Visit Us](https://niikkhilsharma-videostreaming.netlify.app/)
 
 
 # Getting Started with Create React App
